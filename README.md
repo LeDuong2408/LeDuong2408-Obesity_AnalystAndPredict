@@ -1,2 +1,2 @@
-Data analysis, data visualization
+Data analysis, data visualization\
 Use machine learning models to predict and compare
